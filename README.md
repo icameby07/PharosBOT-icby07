@@ -63,12 +63,12 @@ python icameby.py #or python3 icameby.py
 
 ## Buy Me a Coffee
 
-- **EVM:** 0xe3c9ef9a39e9eb0582e5b147026cae524338521a
-- **TON:** UQBEFv58DC4FUrGqinBB5PAQS7TzXSm5c1Fn6nkiet8kmehB
-- **SOL:** E1xkaJYmAFEj28NPHKhjbf7GcvfdjKdvXju8d8AeSunf
-- **SUI:** 0xa03726ecbbe00b31df6a61d7a59d02a7eedc39fe269532ceab97852a04cf3347
+- **EVM:** 0xfc6f9a761210f8A91D008648741B40fD7FD8BAcd
+- **SOL:** JH8A692obaqYJHMZqrvTF2UMJvH283cTnPBbWKWm6R8
+- **SUI:** 0x537ef8df77f764834cfd6cb97af89a7142ad936f8bc84c99cba618cc2b3bc8e8
 
-Thank you for visiting this repository, don't forget to contribute in the form of follows and stars.
-If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an *issue* in this GitHub repository.
+Thank you for visiting this repository! Your support by following and starring ⭐ is greatly appreciated.
+If you have any questions, encounter any issues, or have suggestions for improvement, feel free to reach out or open an issue here on GitHub.
+Your contributions make a real difference!
 
-**vonssy**
+**iCameBy07**
